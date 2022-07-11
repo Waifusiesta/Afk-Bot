@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "game7.falixserver.net",
-    "port": 26564,
+    "ip": "displaysmp6.aternos.me",
+    "port": 47251,
     "version": "1.17.1"
   },
 
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 100,
 
